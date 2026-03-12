@@ -1,12 +1,12 @@
 # week4-ai-assignment-
-- Francis Lealmusia
+Francis Lealmusia
 
 ##Questin 1
-- Data is raw facts i.e numers, ides, images
+- Data is raw facts which can be processed to meaniful information.
 
 ##Question 2
 - Structured data is a type of data with fixed shema
-- Unstructured data - is a type of data withot fixed schema, o predetermined formati.e videos, images
+- Unstructured data - is a type of data without fixed schema or predetermined format i.e videos, images
+  
 ##Question 3
-
-- Schma is a structure of how the data is organized
+- A schema is the structure or blueprint that defines how data is organized
